@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hive")(type "KiCad")(uri "${KIPRJMOD}/../hive.kicad_sym")(options "")(descr ""))
+)

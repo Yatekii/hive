@@ -249,7 +249,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "backplate.kicad_pro",
+    "filename": "backplane.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -409,8 +409,40 @@
   },
   "sheets": [
     [
-      "af17b95e-daa7-4e0e-8409-c101b90bb291",
+      "84bed50c-6cd3-4764-9aef-3c437b12440d",
       "Root"
+    ],
+    [
+      "bf5271fc-3ed0-4a40-a5e3-746345123ab3",
+      "dut"
+    ],
+    [
+      "9a76a61c-ea58-4341-a598-d7d276e850b9",
+      "channel0"
+    ],
+    [
+      "9f79b21a-3d32-49e7-89d2-a9b5956a6541",
+      "channel1"
+    ],
+    [
+      "bf5271fc-3ed0-4a40-a5e3-746345123ab3",
+      "dut"
+    ],
+    [
+      "11c7fda5-8d5b-4d06-9ab4-131e1f59012d",
+      "channel2"
+    ],
+    [
+      "bf5271fc-3ed0-4a40-a5e3-746345123ab3",
+      "dut"
+    ],
+    [
+      "f6360644-7886-4eca-a5d1-8e1910c463a9",
+      "channel3"
+    ],
+    [
+      "bf5271fc-3ed0-4a40-a5e3-746345123ab3",
+      "dut"
     ]
   ],
   "text_variables": {}
