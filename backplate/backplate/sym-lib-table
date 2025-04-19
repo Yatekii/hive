@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hive")(type "KiCad")(uri "/Users/yatekii/repos/probe-rs/hive/hive.kicad_sym")(options "")(descr ""))
+)
